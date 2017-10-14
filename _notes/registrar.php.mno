@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:Id_click;datatype:string,name:nombre;datatype:string,name:apellido;datatype:string,name:puntost;datatype:string,name:Id_correo;datatype:string,name:Id_PuntosV;datatype:string" />
+	<infoitem key="UD_Recordset2" value="name:nusuario;datatype:string,name:clave;datatype:string,name:correo;datatype:string" />
+	<infoitem key="UD_Recordset3" value="name:click;datatype:string,name:estado;datatype:string,name:puntos;datatype:string,name:codigo;datatype:string" />
+</info>
